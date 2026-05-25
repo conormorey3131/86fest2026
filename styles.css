@@ -706,6 +706,14 @@ ul { list-style: none; padding: 0; margin: 0; }
 }
 .footer__bottom a { color: var(--text-dim); }
 .footer__bottom a:hover { color: var(--accent); }
+.footer__bottom p { margin: 0; }
+.footer__bottom p + p { margin-top: 6px; }
+.footer__powered {
+  font-size: 12px;
+  letter-spacing: .06em;
+  color: var(--text-mute);
+}
+.footer__powered a { font-weight: 600; }
 
 /* ---------- Reveal-on-scroll ---------- */
 [data-reveal] {
