@@ -71,7 +71,7 @@ The Open Graph image is the existing logo. If you want a custom share image (120
 ## Links (already wired)
 
 - Show car application → <https://forms.gle/n4jrZTy3vRsJw3TG6>
-- Driver tickets → <https://mondellopark.checkfront.com/reserve/?preview=1&item_id=129>
+- Driver tickets → <https://www.paypal.com/ncp/payment/Q9YXZ7T6ZDT38>
 - 86 Fest IG → <https://www.instagram.com/86fest.irl/>
 - JDM Classics IG → <https://www.instagram.com/jdm_classics_irl/>
 - JDM Classics FB → <https://www.facebook.com/profile.php?id=100070957250222>
